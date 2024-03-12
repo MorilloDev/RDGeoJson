@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "name": "Villa Ofelia",
-        "id": "24-1-5"
+        "id": "24-1-5",
+        "parentZoneName": "San Juan"
       },
       "geometry": {
         "coordinates": [
@@ -87,7 +88,8 @@
       "type": "Feature",
       "properties": {
         "name": "Villa Flores",
-        "id": "24-1-4"
+        "id": "24-1-4",
+        "parentZoneName": "San Juan"
       },
       "geometry": {
         "coordinates": [
@@ -193,7 +195,8 @@
       "type": "Feature",
       "properties": {
         "name": "Manoguayabo",
-        "id": "24-1-3"
+        "id": "24-1-3",
+        "parentZoneName": "San Juan"
       },
       "geometry": {
         "coordinates": [
@@ -311,7 +314,8 @@
       "type": "Feature",
       "properties": {
         "name": "Quijaquieta",
-        "id": "24-1-2"
+        "id": "24-1-2",
+        "parentZoneName": "San Juan"
       },
       "geometry": {
         "coordinates": [
@@ -421,7 +425,8 @@
       "type": "Feature",
       "properties": {
         "name": "Corbano",
-        "id": "24-2"
+        "id": "24-2",
+        "parentZoneName": "San Juan"
       },
       "geometry": {
         "coordinates": [
@@ -547,7 +552,8 @@
       "type": "Feature",
       "properties": {
         "name": "Corbano Sur",
-        "id": "24-2-1"
+        "id": "24-2-1",
+        "parentZoneName": "San Juan"
       },
       "geometry": {
         "coordinates": [
@@ -641,7 +647,8 @@
       "type": "Feature",
       "properties": {
         "name": "San Juan",
-        "id": 24
+        "id": 24,
+        "parentZoneName": ""
       },
       "geometry": {
         "coordinates": [
@@ -3363,7 +3370,8 @@
       "type": "Feature",
       "properties": {
         "name": "Circunvalación Norte",
-        "id": "24-1-8"
+        "id": "24-1-8",
+        "parentZoneName": "San Juan"
       },
       "geometry": {
         "coordinates": [
@@ -3417,7 +3425,8 @@
       "type": "Feature",
       "properties": {
         "name": "Ensanche la fe",
-        "id": "24-1-7"
+        "id": "24-1-7",
+        "parentZoneName": "San Juan"
       },
       "geometry": {
         "coordinates": [
@@ -3495,7 +3504,8 @@
       "type": "Feature",
       "properties": {
         "name": "San Juan de la Maguana",
-        "id": "24-1"
+        "id": "24-1",
+        "parentZoneName": "San Juan"
       },
       "geometry": {
         "coordinates": [
@@ -3677,7 +3687,8 @@
       "type": "Feature",
       "properties": {
         "name": "Villa Felicia",
-        "id": "24-1-6"
+        "id": "24-1-6",
+        "parentZoneName": "San Juan"
       },
       "geometry": {
         "coordinates": [
@@ -3759,7 +3770,8 @@
       "type": "Feature",
       "properties": {
         "name": "Centro de Ciudad",
-        "id": "24-1-1"
+        "id": "24-1-1",
+        "parentZoneName": "San Juan"
       },
       "geometry": {
         "coordinates": [
@@ -3889,7 +3901,8 @@
       "type": "Feature",
       "properties": {
         "name": "Corbano Norte",
-        "id": "24-2-1"
+        "id": "24-2-1",
+        "parentZoneName": "San Juan"
       },
       "geometry": {
         "coordinates": [
